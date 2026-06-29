@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "The last of us",
+        "plataforma": "steam",
+        "año": 2013,
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Tetris",
+        "plataforma": "steam",
+        "año": 2000,
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Fallout 4",
+        "plataforma": "steam",
+        "año": 2016,
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Minecraft",
+        "plataforma": "steam",
+        "año": 2006,
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Dying light",
+        "plataforma": "steam",
+        "año": 2021,
+        "estado": "pendiente"
+    }
+]
